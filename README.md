@@ -1,4 +1,4 @@
-# Phys824
+# PHYS824
 Nanophysics and Nanotechnology
 
 This repository provides the equivalnet of hands-on experience(including one hour of Computer Lab per week) for graduate students in sciences (physics, chemistry, applied mathematics) and engineering (electrical, chemical, materials) to analyze electronic structure and transport properties of basic classes of nanostructures explored at the current research frontiers.
