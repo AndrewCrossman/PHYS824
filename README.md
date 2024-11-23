@@ -6,4 +6,4 @@ This repository provides the equivalent of hands-on experience(including one hou
 Much of the work here requires the kwant package (https://kwant-project.org/install) which can be simply installed in google colab or any other python based software.
 In colab, kwant can be installed by running: pip install kwant.
 
-## USING THIS WORK FOR SCHOOL IS CONSIDERED PLAGARISING. DO NOT DO IT.
+## USING THIS WORK FOR SCHOOL IS CONSIDERED PLAGARISIM. DO NOT DO IT.
